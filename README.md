@@ -1,6 +1,6 @@
 # S P A C E D
 
-plugins that make your text S P A C E D
+plugins that make your text S P A C E D. [D o w n l o a d](https://github.com/hamzaabamboo/spaced-workflow/raw/main/S%20P%20A%20C%20E%20D.alfredworkflow)
 
 ## U s a g e
 
